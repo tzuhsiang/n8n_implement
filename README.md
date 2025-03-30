@@ -81,3 +81,7 @@ chmod +x install_n8n.sh
 - 啟用基本驗證（Basic Authentication）
 - 停用多使用者管理功能
 - 排除健康檢查端點的驗證需求
+
+
+## 參考技術文章
+https://weii.dev/n8n/
