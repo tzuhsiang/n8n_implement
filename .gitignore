@@ -1,2 +1,2 @@
-.env
-.env
+postgres_data_dir/*
+!postgres_data_dir/.gitkeep
